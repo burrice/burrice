@@ -10,8 +10,8 @@
 
 ```
 ┌──────────────────────────────────┐
-│  name     ░ KiddieScript         │
-│  locate   ░ Hungary              │
+│  name     ░ Vicktor              │
+│  locate   ░ 013                  │
 │  stack    ░ py / node / ts / php │
 │  discord  ░ 3qlc                 │
 └──────────────────────────────────┘
